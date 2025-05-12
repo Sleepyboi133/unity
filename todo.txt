@@ -1,0 +1,13 @@
+
+//make a copyable template files for quick writing
+  -link vs and unity
+  -write a game controler
+  -simlpe player class
+  -enemy ai
+  -save any library 
+  -ect.
+
+//more speici prefrences 
+  -pysics engine
+  -player controlers
+  -ect
